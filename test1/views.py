@@ -1,0 +1,2 @@
+class UseView:
+  model = User
